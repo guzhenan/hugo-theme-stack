@@ -1,7 +1,7 @@
 ---
 title: 个人介绍
-description: 这是我的个人介绍
-date: '2024-06-04'
+description: Hugo, the world's fastest framework for building websites
+date: '2019-02-28'
 aliases:
   - about-us
   - about-hugo
