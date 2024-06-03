@@ -2,7 +2,7 @@ baseurl: https://example.com
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 3
-title: Guzhenan's blog
+title: Guzhenan‘s blog
 
 
 # Theme i18n support
