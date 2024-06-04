@@ -11,7 +11,7 @@ categories = [
 ]
 series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]
-image: pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg
+image = "pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg"
 +++
 ## 标题
 ```
