@@ -1,5 +1,5 @@
 +++
-author = "Hugo Authors"
+author = "G"
 title = "Markdown语法指南"
 date = "2024-06-04"
 description = "Markdown常用命令集"
