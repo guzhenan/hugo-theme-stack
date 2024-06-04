@@ -64,7 +64,7 @@ params:
 
     sidebar:
         emoji: 🍥
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        subtitle: 人生得意须尽欢，莫使金樽空对月。
         avatar:
             enabled: true
             local: true
