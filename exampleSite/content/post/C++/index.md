@@ -18,12 +18,7 @@ categories = [
 
 ### deque的基本使用
 
-- **队尾入队:**将数据元素从队尾部进行插入的过程。如图表示的是在队尾插入一个紫色数据的过程。
-- ![](https://cdn.jsdelivr.net/gh/guzhenan/Picture/202406051041916.gif)
-
-- **队首出队:**将数据元素从队首部删除的过程。如图所示，表示的是在队首删除一个蓝色数据的过程。
-
-  ![](https://cdn.jsdelivr.net/gh/guzhenan/Picture/202406051048656.gif)
+![](https://cdn.jsdelivr.net/gh/guzhenan/Picture/202406071558187.png)
 
 ```c++
 #include<iostream>
@@ -54,7 +49,7 @@ int main(){
 
 ### list的基本使用
 
-![](https://cdn.jsdelivr.net/gh/guzhenan/Picture/202406051100138.jpg)
+![](https://cdn.jsdelivr.net/gh/guzhenan/Picture/202406071605703.png)
 
 ```c++
 #include<iostream>
@@ -143,7 +138,7 @@ int main(){
 
 ### map的基本使用
 
-![](https://cdn.jsdelivr.net/gh/guzhenan/Picture/202406051111963.png)
+
 
 ```c++
 #include<iostream>
@@ -211,7 +206,7 @@ int main(){
 
 ### queue的基本使用
 
-![](https://cdn.jsdelivr.net/gh/guzhenan/Picture/202406051117614.png)
+
 
 ```c++
 #include<iostream>
@@ -250,7 +245,7 @@ int main(){
 
 ### set的基本使用
 
-![](https://cdn.jsdelivr.net/gh/guzhenan/Picture/202406051135806.png)
+
 
 ```c++
 #include<iostream>
@@ -304,11 +299,11 @@ int main(){
 
 - **出栈**
 
-  ![](https://cdn.jsdelivr.net/gh/guzhenan/Picture/202406051138745.gif)
+  
 
 - **入栈**
 
-  ![](https://cdn.jsdelivr.net/gh/guzhenan/Picture/202406051138746.gif)
+  
 
 ```c++
 #include<iostream>
@@ -345,7 +340,7 @@ int main(){
 
 ### vector的基本使用
 
-![](https://cdn.jsdelivr.net/gh/guzhenan/Picture/202406051145469.png)
+
 
 ```c++
 #include<iostream>
