@@ -1,4 +1,4 @@
----
++++
 author = "G"
 title = "微雪-ESP32-S-N8R8"
 date = "2024-06-07"
@@ -10,7 +10,7 @@ categories = [
   "开发板",
   "嵌入式开发"
 ]
----
++++
 ## 产品特性	
 
 - 采用 ESP32-S3-WROOM-1-N8R8模组，搭载 Xtensa 32 位 LX7 双核处理器，主频高达 240MHz
@@ -57,6 +57,3 @@ categories = [
 ```tex
 可长按BOOT按键，同时按下RESET，然后松开RESET，再松开BOOT按键，此时模块可进入下载模式，可解决大部分无法下载的问题。
 ```
-
-  [CH343SER.7z](C:\Users\w\Documents\ZIP\CH343SER.7z) 
-
