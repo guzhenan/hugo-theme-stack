@@ -2,7 +2,7 @@
 
 author = "G"
 
-title = "ESP32-IDF"
+title = "ESP32-IDF环境配置"
 
 date = "2024-06-07"
 
@@ -23,6 +23,10 @@ categories = [
 ]
 
 +++
+
+### 官方使用指南文档链接
+
+[ESP-IDF官方文档]([快速入门 - ESP32-S3 - — ESP-IDF 编程指南 release-v5.1 文档 (espressif.com)](https://docs.espressif.com/projects/esp-idf/zh_CN/release-v5.1/esp32s3/get-started/index.html))
 
 ## 前期准备
 
